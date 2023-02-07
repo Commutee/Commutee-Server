@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Manali",
+    "rating": "4.5",
+    "img": "https://www.holidify.com/images/bgImages/MANALI.jpg"
+  },
+  {
+    "name": "Leh Ladakh",
+    "rating": "4.6",
+    "img": "https://www.holidify.com/images/bgImages/LADAKH.jpg"
+  },
+  {
+    "name": "Coorg",
+    "rating": "4.2",
+    "img": "https://www.holidify.com/images/bgImages/COORG.jpg"
+  },
+  {
+    "name": "Andaman",
+    "rating": "4.5",
+    "img": "https://www.holidify.com/images/bgImages/ANDAMAN-NICOBAR-ISLANDS.jpg"
+  },
+  {
+    "name": "Lakshadweep",
+    "rating": "4.0",
+    "img": "https://www.holidify.com/images/bgImages/LAKSHADWEEP-ISLANDS.jpg"
+  },
+  {
+    "name": "Goa",
+    "rating": "4.5",
+    "img": "https://www.holidify.com/images/bgImages/GOA.jpg"
+  },
+  {
+    "name": "Udaipur",
+    "rating": "4.4",
+    "img": "https://www.holidify.com/images/bgImages/UDAIPUR.jpg"
+  },
+  {
+    "name": "Srinagar",
+    "rating": "4.5",
+    "img": "https://www.holidify.com/images/bgImages/SRINAGAR.jpg"
+  },
+  {
+    "name": "Gangtok",
+    "rating": "4.4",
+    "img": "https://www.holidify.com/images/bgImages/GANGTOK.jpg"
+  },
+  {
+    "name": "Munnar",
+    "rating": "4.5",
+    "img": "https://www.holidify.com/images/bgImages/MUNNAR.jpg"
+  },
+  {
+    "name": "Varkala",
+    "rating": "4.5",
+    "img": "https://www.holidify.com/images/bgImages/VARKALA.jpg"
+  },
+  {
+    "name": "Mcleodganj",
+    "rating": "4.4",
+    "img": "https://www.holidify.com/images/bgImages/MCLEODGANJ.jpg"
+  },
+  {
+    "name": "Rishikesh",
+    "rating": "4.3",
+    "img": "https://www.holidify.com/images/bgImages/RISHIKESH.jpg"
+  },
+  {
+    "name": "Alleppey",
+    "rating": "4.5",
+    "img": "https://www.holidify.com/images/bgImages/ALLEPPEY.jpg"
+  },
+  {
+    "name": "Darjeeling",
+    "rating": "4.3",
+    "img": "https://www.holidify.com/images/bgImages/DARJEELING.jpg"
+  },
+  {
+    "name": "Naintal",
+    "rating": "4.3",
+    "img": "https://www.holidify.com/images/bgImages/NAINITAL.jpg"
+  },
+  {
+    "name": "Shimla",
+    "rating": "4.3",
+    "img": "https://www.holidify.com/images/bgImages/SHIMLA.jpg"
+  },
+  {
+    "name": "Ooty",
+    "rating": "4.3",
+    "img": "https://www.holidify.com/images/bgImages/OOTY.jpg"
+  },
+  {
+    "name": "Jaipur",
+    "rating": "4.4",
+    "img": "https://www.holidify.com/images/bgImages/JAIPUR.jpg"
+  },
+  {
+    "name": "Lonavala",
+    "rating": "4.1",
+    "img": "https://www.holidify.com/images/bgImages/LONAVALA.jpg"
+  },
+  {
+    "name": "Mussoorie",
+    "rating": "4.2",
+    "img": "https://www.holidify.com/images/bgImages/MUSSOORIE.jpg"
+  },
+  {
+    "name": "Kodaikanal",
+    "rating": "4.4",
+    "img": "https://www.holidify.com/images/bgImages/KODAIKANAL.jpg"
+  },
+  {
+    "name": "Dalhousie",
+    "rating": "4.2",
+    "img": "https://www.holidify.com/images/bgImages/DALHOUSIE.jpg"
+  },{
+    "name":"Chennai",
+    "rating":"4.3",
+    "img":"https://www.holidify.com/images/bgImages/CHENNAI.jpg"
+  }
+]
